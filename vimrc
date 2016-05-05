@@ -5,5 +5,5 @@ set softtabstop=2
 set smarttab
 set expandtab
 
-set cursorline
 colorscheme ron
+set smartindent
