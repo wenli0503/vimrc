@@ -5,5 +5,5 @@ set softtabstop=2
 set smarttab
 set expandtab
 
-colorscheme ron
+colorscheme desert
 set smartindent
